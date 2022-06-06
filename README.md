@@ -1,1 +1,2 @@
-# Bateria-fotonowa
+# Bateria-fotonowa 
+Fotowoltaiki w feedback. 
